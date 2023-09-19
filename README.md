@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Venusai</h1>
 <h3 align="center">A passionate fullstack Webdeveloper from India </h3>
-<img align="right" alt="Coding" width="400" src = "https://www.pretute.com/wp-content/uploads/2021/02/Quality-Online-Marketing-Services-That-Bring-Result.gif" </img>
-
+<img align="right" alt="Coding" width="400" src = "https://github.com/Venu005/Venu005/blob/main/coworking-male-programmer-writing-program-code.gif" </img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venu005&label=Profile%20views&color=0e75b6&style=flat" alt="venu005" /> </p>
 
 - 🌱 I’m currently learning **React**
