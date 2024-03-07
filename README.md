@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <a href="http://www.linkedin.com/in/venusai-yalamanchili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venusai yalamanchili" height="30" width="40" /></a>
 <a href="https://instagram.com/venusai_yalamanchili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venusai_yalamanchili" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/venusaiyalamanchili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venusaiyalamanchili" height="30" width="40" /></a>
-[![Peerlist](https://github-readme-badge.peerlist.io/api/venusai)](https://peerlist.io/venusai)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
