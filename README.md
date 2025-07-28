@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate fullstack Webdeveloper from India </h3>
 <img align="right" alt="Coding" width="400" src = "https://github.com/Venu005/Venu005/blob/main/coworking-male-programmer-writing-program-code.gif" </img>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Node,Express**
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="http://www.linkedin.com/in/venusai-yalamanchili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venusai yalamanchili" height="30" width="40" /></a>
 <a href="https://instagram.com/venusai_yalamanchili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venusai_yalamanchili" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/QTu0ynsPME/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venusaiyalamanchili" height="30" width="40" /></a>
-  
+<a href="https://www.venusai.space/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venusaiyalamanchili" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="git logo" />
+
 </div>
 
 
