@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate fullstack Webdeveloper from India </h3>
 <img align="right" alt="Coding" width="400" src = "https://github.com/Venu005/Venu005/blob/main/coworking-male-programmer-writing-program-code.gif" </img>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **Node,Express**
+- 💬 Ask me about **Full-stack and agentic development**
 
 - 📫 How to reach me **venusaiyalamanchili@gmail.com**
 
