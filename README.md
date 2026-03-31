@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <a href="http://www.linkedin.com/in/venusai-yalamanchili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venusai yalamanchili" height="30" width="40" /></a>
 <a href="https://instagram.com/venusai_yalamanchili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venusai_yalamanchili" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/QTu0ynsPME/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venusaiyalamanchili" height="30" width="40" /></a>
-<a href="https://www.venusai.space/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venusaiyalamanchili" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,12 +53,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="git logo" />
-
 </div>
-
-
-| <img src="https://github-readme-stats.vercel.app/api?username=Venu005&show_icons=true&theme=dark" alt="itsme" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venu005&layout=compact&hide=html&theme=dark" alt="itsme" /> |
-| ------------- | ------------- |
 <div align ="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venu005&radius=16&theme=dark&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
